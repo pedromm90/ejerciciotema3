@@ -1,5 +1,5 @@
 # Ejercicio tema3
-OpenBootcamp - 1. Introducción a la programación - Ejercicio tema 4
+OpenBootcamp - 1. Introducción a la programación - Ejercicio tema 3
 
 Ejercicio hecho en Java.
 Software: Intellij IDEA Community Edtion 2022 - OpenJDK JDK 19.0.1 GA Release: https://jdk.java.net/19/
